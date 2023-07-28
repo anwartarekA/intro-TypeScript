@@ -1,0 +1,37 @@
+typescript --> is the programming language designed from microsoft company depends on javascript
+------------------------------------------------
+why typescript ?
+1- it detects the errors while writing (static type check).
+2- save unit test as you know the errors while writing
+3- every js file valid ts file
+4- it helps you to write the code of react-angular-veu etc.
+5- it adds the missing features of javascript like (interfaces-generics-Decorators).
+-------------------------------------------------
+how typescript works >
+it has a compiler compiles its code into javascript code this process called (transplications).
+-------------------------------------------------
+*hinit --> for the missing features how it will deals with it make thing called (workaround).
+
+
+==============================================================
+
+statically type languages vs dynamically type languages
+statically type languages:-
+1- variables that are declared it can not be change.
+2- checking type at compile time (faster).
+3- detects the errors at the compile time .
+4- Have better performace as the checking type occur at compile time.
+5- [c - c++ - rust - typescript].
+-------------------------------
+dynamically type languages:-
+1- variables that are declared it can be change.
+2- checking type at the execution code (run-time).
+3- detects errors at run time.
+4- [javascript-python-php].
+
+
+----------------------------------------------------------
+type annotations||signature
+1- indecate the data type of variables.
+2- indecate the data type of functions (input-output).
+3- indecate the data type for object and etc.
